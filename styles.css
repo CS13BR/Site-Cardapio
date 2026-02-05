@@ -16,8 +16,8 @@ img {
     font-family: 'Arial', sans-serif;
 }
 button {
-    display: inline-block;
-    margin: 20px 46%;
+    display: block;
+    margin: 20px auto%;
     padding: 10px 20px;
     font-size: 16px;
     background-color: #007BFF;
